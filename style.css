@@ -58,7 +58,7 @@ body {
 .content {
     display: flex;
     flex-direction: row;
-    width: 1224px;
+    width: 1204px;
     height: 536px;
     margin-top: 15px;
 }

@@ -27,7 +27,7 @@ body {
     width: 100%;
     font-family: gilroy-bold;
     font-size: 14px;
-    padding-right: 40px;
+    padding-right: 35px;
     color:black;
     text-decoration: none;
 }
@@ -58,7 +58,7 @@ body {
 .content {
     display: flex;
     flex-direction: row;
-    width: 274px;
+    width: 1224px;
     height: 536px;
     margin-top: 15px;
 }
